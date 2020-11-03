@@ -1,0 +1,50 @@
+body{
+    background-image:"";
+    background-repeat: no-repeat;
+    background-position:  bottom 10% right 40%;
+    transform: (-180deg);
+    font-family: 'Nunito', sans-serif;
+  }
+  .text-dark{
+    font-family: Nunito;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #212121;
+
+  }
+  .text-white {
+    font-family: Nunito;
+    font-style: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #FAFCFF;
+  }
+  img{
+   max-width:50%;
+   margin:auto;
+  }
+
+  .text-blue{
+    color:#2996FD !important;
+  }
+  .border-blue{
+    border-color:#2996FD !important;
+  }
+  .bg-blue{
+    background-color:#2996FD !important;
+  }
+  .card{
+    border-radius:0.9em!important;
+    border-width: 2px !important;
+    z-index:-1;
+  }
+  .btn{
+    font-weight:700;
+    font-Size :20px;
+  }
+  .btn-blue{
+    background-image:linear-gradient(to right,#2996FD,
+    #1343BD
+   )
+  }
